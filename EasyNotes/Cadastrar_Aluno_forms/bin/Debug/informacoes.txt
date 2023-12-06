@@ -1,0 +1,22 @@
+aluno;Barbara;25/03/2003;226525;masculino;652625265;01
+aluno;Marco;30/05/1089;25665;masculino;6565653;02
+aluno;Joao;29/05/1070;2566545;masculino;656556565653;03
+turma;turma1;Calculo
+turma;turma2;blabkabka
+turma;turma3;AED
+alunoturma;turma1;Barbara
+alunoturma;turma1;Marco
+alunoturma;turma2;Joao
+aluno;Giovana;26/04/2005 00:00:00;4465464;Femnino;5464564;04
+aluno;Jandira;01/01/1855 00:00:00;64656265;Feminino;546851665;05
+aluno;Sauron;01/05/1500 00:00:00;254666;Masculino;6545464;06
+alunonota;Barbara;25;10;4;55;10;turma1
+alunonota;Marco;2;44;10;52;32;turma1
+alunonota;Joao;15;10;89;5;14;turma2
+alunoturma;turma2;Barbara
+alunoturma;turma2;Marco
+turma;TurmaNova;nsjdan
+turma,Turma 4,blablaba
+aluno;Henrique;01/02/1997 00:00:00;656121454;Masculino;962442353;07
+alunoturma;TurmaNova;Henrique
+alunonota;Henrique;14,50;20,00;6,70;11,00;32,00;TurmaNova
